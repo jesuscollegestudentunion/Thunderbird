@@ -8,7 +8,7 @@ To install Thunderbird, simply click [here](https://www.thunderbird.net/en-GB/) 
 
 Upon opening Thunderbird, you should be greeted with a screen like this
 
-![opening](Screenshot%20from%202018-07-16%2017-23-08.png)
+![opening](img/greeting.png)
 
 Proceed by choosing "Skip this and use my existing email option"
 ![Setup](https://github.com/FA1211/thunderbird.github.io/blob/master/GIFS-20180716T161922Z-001/GIFS/video1.gif)
