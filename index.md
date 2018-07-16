@@ -1,4 +1,4 @@
-# Thunderbird guide
+# Setting up your JCSU Email
 
 ## Step 1 : Installing Thunderbird
 
