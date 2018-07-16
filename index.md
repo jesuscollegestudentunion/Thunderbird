@@ -11,7 +11,7 @@ Upon opening Thunderbird, you should be greeted with a screen like this
 ![opening](img/greeting.png)
 
 Proceed by choosing "Skip this and use my existing email option"
-![Setup](https://github.com/FA1211/thunderbird.github.io/blob/master/GIFS-20180716T161922Z-001/GIFS/video1.gif)
+![Setup](img/video1.gif)
 
 On the next screen, do the following:
   * Complete Your name
@@ -19,7 +19,7 @@ On the next screen, do the following:
   * **Do not put in your password at this stage.**
   
   
-![Setup](https://github.com/FA1211/thunderbird.github.io/blob/master/GIFS-20180716T161922Z-001/GIFS/video2.gif)
+![Setup](img/video2.gif)
 
 
 
@@ -38,7 +38,7 @@ Now, Thunderbird will attempt to auto-configure but **will not succeed** and you
 * For Connection security select STARTTLS
 * For Authentication select Normal password
 
-![IMAP](https://github.com/FA1211/thunderbird.github.io/blob/master/GIFS-20180716T161922Z-001/GIFS/video3-IMAP.gif)
+![IMAP](img/video3-IMAP.gif)
 
 
 
@@ -54,7 +54,7 @@ Now, Thunderbird will attempt to auto-configure but **will not succeed** and you
 * Set Connection security to STARTTLS
 * Set Authentication to Normal password
 
-![SMTP](https://github.com/FA1211/thunderbird.github.io/blob/master/GIFS-20180716T161922Z-001/GIFS/video4-SMTP.gif)
+![SMTP](img/video4-SMTP.gif)
 
 
 
@@ -68,7 +68,7 @@ Now, Thunderbird will attempt to auto-configure but **will not succeed** and you
 
 ## Advanced Config
 * Now select *Advanced Config*, followed by *Advanced*
-![Adv](https://github.com/FA1211/thunderbird.github.io/blob/master/GIFS-20180716T161922Z-001/GIFS/video5-adva.gif)
+![Adv](img/video5-adva.gif)
 
 
 
@@ -76,14 +76,14 @@ Now, Thunderbird will attempt to auto-configure but **will not succeed** and you
 * **Untick** the 'Show only subscribed folders field
 * Make sure the Allow server to override these namespaces is **ticked**
 * Click 'OK' twice to close both dialog boxes
-![Adv](https://github.com/FA1211/thunderbird.github.io/blob/master/GIFS-20180716T161922Z-001/GIFS/video6-ticks.gif)
+![Adv](img/video6-ticks.gif)
 
 
 ## Get Your Emails
 
 In the top left corner you should be able to click 'Get Messages' to import all your Hermes emails. If a message is displayed describing a failure, simply use the 'Retry' button and it should succeed.
 
-![GetMail](https://github.com/FA1211/thunderbird.github.io/blob/master/GIFS-20180716T161922Z-001/GIFS/video7-getmail.gif)
+![GetMail](img/video7-getmail.gif)
 
 
 ## Step 3: Adding your JCSU Email address
@@ -104,20 +104,20 @@ This raises the question of how you reply from your official address. It’s bas
 
 To set this up, begin by left clicking on your email address, which should be displayed on the left hand side of your screen. Then choose "View Settings for this account"
 
-![settings](https://github.com/FA1211/thunderbird.github.io/blob/master/GIFS-20180716T161922Z-001/GIFS/video8-opensettings.gif)
+![settings](img/video8-opensettings.gif)
 
 
 * Click 'Manage Identities' , then 'Add'
 * Fill in the form such that it looks vaguely similar to the following (Obviously names and email addresses will vary)
 * Click 'OK' once done and close the dialog boxes
-![settings](https://github.com/FA1211/thunderbird.github.io/blob/master/GIFS-20180716T161922Z-001/GIFS/Screenshot%20from%202018-07-16%2017-13-40.png)
+![settings](img/completedform.png)
 
 
   
 At this point, you should now be able to send messages from your regular Hermes email, as well as this new JCSU one!
 Simply click 'Write' in the top left and there should be a drop-down menu in the 'From' field allowing you to choose the appropriate email.
 
-![alts](https://github.com/FA1211/thunderbird.github.io/blob/master/GIFS-20180716T161922Z-001/GIFS/video10-alt)
+![alts](img/video10-alt)
 
 
 
