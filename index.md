@@ -19,7 +19,7 @@ On the next screen, do the following:
   * **Do not put in your password at this stage.**
   
   
-![Setup](img/video2.gif)
+![Setup](img/video2-mailaccount.gif)
 
 
 
