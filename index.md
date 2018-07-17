@@ -11,7 +11,7 @@ Upon opening Thunderbird, you should be greeted with a screen like this
 ![opening](img/greeting.png)
 
 Proceed by choosing "Skip this and use my existing email option"
-![Setup](img/video1.gif)
+![Skip This](img/video1.gif)
 
 On the next screen, do the following:
   * Complete Your name
