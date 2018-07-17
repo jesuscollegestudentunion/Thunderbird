@@ -123,7 +123,7 @@ To set this up, begin by left clicking on your email address, which should be di
 At this point, you should now be able to send messages from your regular Hermes email, as well as this new JCSU one!
 Simply click 'Write' in the top left and there should be a drop-down menu in the 'From' field allowing you to choose the appropriate email.
 
-![alts](img/video10-alts)
+![alts](img/video10-alts.gif)
 
 
 
