@@ -68,6 +68,8 @@ Now, Thunderbird will attempt to auto-configure but **will not succeed** and you
 
 ## Advanced Config
 * Now select *Advanced Config*, followed by *Advanced*
+
+
 ![Adv](img/video5-adva.gif)
 
 
@@ -76,6 +78,8 @@ Now, Thunderbird will attempt to auto-configure but **will not succeed** and you
 * **Untick** the 'Show only subscribed folders field
 * Make sure the Allow server to override these namespaces is **ticked**
 * Click 'OK' twice to close both dialog boxes
+
+
 ![Adv](img/video6-ticks.gif)
 
 
@@ -110,6 +114,8 @@ To set this up, begin by left clicking on your email address, which should be di
 * Click 'Manage Identities' , then 'Add'
 * Fill in the form such that it looks vaguely similar to the following (Obviously names and email addresses will vary)
 * Click 'OK' once done and close the dialog boxes
+
+
 ![settings](img/completedform.png)
 
 
@@ -117,7 +123,7 @@ To set this up, begin by left clicking on your email address, which should be di
 At this point, you should now be able to send messages from your regular Hermes email, as well as this new JCSU one!
 Simply click 'Write' in the top left and there should be a drop-down menu in the 'From' field allowing you to choose the appropriate email.
 
-![alts](img/video10-alt)
+![alts](img/video10-alts)
 
 
 
